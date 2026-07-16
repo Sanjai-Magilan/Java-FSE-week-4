@@ -1,0 +1,26 @@
+!SESSION 2026-06-27 19:45:27.786 -----------------------------------------------
+eclipse.buildId=4.40.0.20260604-0652
+java.version=21.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-27 19:45:33.228
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-27 19:50:07.300
+!MESSAGE Logback config file: /home/magilan/coding/Java-FSE-week2/week2/spring data jpa/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-06-27 20:53:07.266 -----------------------------------------------
+eclipse.buildId=4.40.0.20260604-0652
+java.version=21.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product -data /home/magilan/coding/Java-FSE-week2/week2/spring data jpa
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-27 20:53:10.641
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-06-27 20:53:11.408
+!MESSAGE Logback config file: /home/magilan/coding/Java-FSE-week2/week2/spring data jpa/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
